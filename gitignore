@@ -1,0 +1,37 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Output files (user-generated)
+*_Analysis_*.xlsx
+Carrier_Risk_*.xlsx
+ENDC_Combinations_*.xlsx
+
+# Node modules (if ever needed)
+node_modules/
+package-lock.json
+
+# Build artifacts
+dist/
+build/
+
+# Personal test data
+test_data/
+my_combinations.xlsx
